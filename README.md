@@ -35,7 +35,7 @@ This project aims to predict housing prices using advanced machine learning mode
 | Stacking Ensemble      | 0.1322                  |
 
 ### Highlights
-- **Best Individual Model**: XGBoost (RMSE: 0.1378)
+- **Best Individual Model**: MLP (RMSE: 0.1268)
 - **Best Ensemble Model**: Averaged Ensemble (RMSE: 0.1322)
 - **Stacking Model RMSE**: 0.1322 (Final Test Data RMSE)
 
